@@ -30,6 +30,11 @@
 		<members>PublicDashboards/vmBAGKoeQZMDZHWqtmeEUAbvyXpiFG</members>
 		<name>Dashboard</name>
 	</types>
+		<types>
+		<members>Air_Bnb</members>
+		<members>Air_Bnb_UtilityBar</members>
+		<name>FlexiPage</name>
+	</types>
 	<types>
 		<members>CreateDataByFlow</members>
 		<name>Flow</name>
@@ -65,6 +70,10 @@
 		<members>Permission_set_for_Admins</members>
 		<members>Permission_set_for_Users</members>
 		<name>PermissionSet</name>
+	</types>
+	<types>
+		<members>Create_Example_Data</members>
+		<name>QuickAction</name>
 	</types>
 	<types>
 		<members>Review__c.Admin_Suggestion</members>
