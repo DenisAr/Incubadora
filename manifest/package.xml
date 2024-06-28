@@ -27,6 +27,15 @@
 		<name>CustomObject</name>
 	</types>
 	<types>
+		<members>Booking__c</members>
+		<members>Favorite__c</members>
+		<members>Possible_Dates__c</members>
+		<members>Property__c</members>
+		<members>Review__c</members>
+		<members>User_AirBnb__c</members>
+		<name>CustomTab</name>
+	</types>
+	<types>
 		<members>PublicDashboards/vmBAGKoeQZMDZHWqtmeEUAbvyXpiFG</members>
 		<name>Dashboard</name>
 	</types>

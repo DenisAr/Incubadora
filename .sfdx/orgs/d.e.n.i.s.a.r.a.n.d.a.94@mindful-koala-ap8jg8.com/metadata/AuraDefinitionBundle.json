@@ -1,0 +1,103 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "005ak000005XXWHAA4",
+      "createdByName": "Denis Aranda",
+      "createdDate": "2024-06-25T17:37:03.000Z",
+      "fileName": "aura/trlhdtips__tt_confirm_evt",
+      "fullName": "trlhdtips__tt_confirm_evt",
+      "id": "0Abak0000019lwsCAA",
+      "lastModifiedById": "005ak000005XXWHAA4",
+      "lastModifiedByName": "Denis Aranda",
+      "lastModifiedDate": "2024-06-25T17:37:03.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "trlhdtips",
+      "type": "AuraDefinitionBundle"
+    },
+    {
+      "createdById": "005ak000005XXWHAA4",
+      "createdByName": "Denis Aranda",
+      "createdDate": "2024-06-25T17:37:03.000Z",
+      "fileName": "aura/trlhdtips__tt_remove_padding_cmp",
+      "fullName": "trlhdtips__tt_remove_padding_cmp",
+      "id": "0Abak0000019lwpCAA",
+      "lastModifiedById": "005ak000005XXWHAA4",
+      "lastModifiedByName": "Denis Aranda",
+      "lastModifiedDate": "2024-06-25T17:37:03.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "trlhdtips",
+      "type": "AuraDefinitionBundle"
+    },
+    {
+      "createdById": "005ak000005XXWHAA4",
+      "createdByName": "Denis Aranda",
+      "createdDate": "2024-06-25T17:37:03.000Z",
+      "fileName": "aura/trlhdtips__tt_user_info_cmp",
+      "fullName": "trlhdtips__tt_user_info_cmp",
+      "id": "0Abak0000019lwrCAA",
+      "lastModifiedById": "005ak000005XXWHAA4",
+      "lastModifiedByName": "Denis Aranda",
+      "lastModifiedDate": "2024-06-25T17:37:03.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "trlhdtips",
+      "type": "AuraDefinitionBundle"
+    },
+    {
+      "createdById": "005ak000005XXWHAA4",
+      "createdByName": "Denis Aranda",
+      "createdDate": "2024-06-25T17:37:03.000Z",
+      "fileName": "aura/trlhdtips__tt_welcome_cmp",
+      "fullName": "trlhdtips__tt_welcome_cmp",
+      "id": "0Abak0000019lwqCAA",
+      "lastModifiedById": "005ak000005XXWHAA4",
+      "lastModifiedByName": "Denis Aranda",
+      "lastModifiedDate": "2024-06-25T17:37:03.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "trlhdtips",
+      "type": "AuraDefinitionBundle"
+    },
+    {
+      "createdById": "005ak000005XXWHAA4",
+      "createdByName": "Denis Aranda",
+      "createdDate": "2024-06-25T17:37:03.000Z",
+      "fileName": "aura/trlhdtips__tt_login_cred_cmp",
+      "fullName": "trlhdtips__tt_login_cred_cmp",
+      "id": "0Abak0000019lwnCAA",
+      "lastModifiedById": "005ak000005XXWHAA4",
+      "lastModifiedByName": "Denis Aranda",
+      "lastModifiedDate": "2024-06-25T17:37:03.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "trlhdtips",
+      "type": "AuraDefinitionBundle"
+    },
+    {
+      "createdById": "005ak000005XXWHAA4",
+      "createdByName": "Denis Aranda",
+      "createdDate": "2024-06-25T17:37:03.000Z",
+      "fileName": "aura/trlhdtips__tt_install_package_cmp",
+      "fullName": "trlhdtips__tt_install_package_cmp",
+      "id": "0Abak0000019lwoCAA",
+      "lastModifiedById": "005ak000005XXWHAA4",
+      "lastModifiedByName": "Denis Aranda",
+      "lastModifiedDate": "2024-06-25T17:37:03.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "trlhdtips",
+      "type": "AuraDefinitionBundle"
+    },
+    {
+      "createdById": "005ak000005XXWHAA4",
+      "createdByName": "Denis Aranda",
+      "createdDate": "2024-06-25T17:37:03.000Z",
+      "fileName": "aura/trlhdtips__tt_confirm_cmp",
+      "fullName": "trlhdtips__tt_confirm_cmp",
+      "id": "0Abak0000019lwtCAA",
+      "lastModifiedById": "005ak000005XXWHAA4",
+      "lastModifiedByName": "Denis Aranda",
+      "lastModifiedDate": "2024-06-25T17:37:03.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "trlhdtips",
+      "type": "AuraDefinitionBundle"
+    }
+  ]
+}
